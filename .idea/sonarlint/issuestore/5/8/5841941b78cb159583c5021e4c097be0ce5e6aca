@@ -1,0 +1,10 @@
+
+Ujavascript:S1481"9Remove the declaration of the unused 'messages' variable.(’”Ë»
+Rjavascript:S1854"6Remove this useless assignment to variable "messages".(’”Ë»
+Xjavascript:S1481"<Remove the declaration of the unused 'setMessages' variable.(’”Ë»
+Ujavascript:S1854"9Remove this useless assignment to variable "setMessages".(’”Ë»
+Xjavascript:S1481"<Remove the declaration of the unused 'sendMessage' variable.(õŒπ∑
+Ujavascript:S1854"9Remove this useless assignment to variable "sendMessage".(õŒπ∑
+Bjavascript:S1186"&Unexpected empty async arrow function.(õŒπ∑
+`javascript:S1481"=Remove the declaration of the unused 'handleChange' variable.(à≤¸8¨™åÖ´0
+]javascript:S1854":Remove this useless assignment to variable "handleChange".(à≤¸8¨™åÖ´0
